@@ -6,9 +6,9 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando **React Native** e utilizando **VSCode** como meu editor principal.
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** Java, Python, JavaScript, CSS, C/C++, VB.NET
+- **Linguagens:** Java, Python, JavaScript, CSS, C/C++, VB.NET, COBOL
 - **Frameworks:** React Native
-- **Editor:** VSCode
+- **Editor:** VSCode, Apache NetBeans
 
 ## 📌 Projetos Destacados
 Aqui estão alguns projetos que venho desenvolvendo:
