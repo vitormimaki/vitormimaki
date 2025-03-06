@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**vitormimaki/vitormimaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! 🚀
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando **React Native** e utilizando **VSCode** como meu editor principal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Java, Python, JavaScript, CSS, C/C++, VB.NET
+- **Frameworks:** React Native
+- **Editor:** VSCode
+
+## 📌 Projetos Destacados
+Aqui estão alguns projetos que venho desenvolvendo:
+- [POO_N2](https://github.com/vitormimaki/POO_N2) - Projeto da disciplina de Programação Orientada a Objetos
+
+## 📫 Contato
+- 📧 Email: [vitormimaki@gmail.com](mailto:vitormimaki@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vitormimaki/)
+
+Obrigado por visitar meu perfil! 😊
