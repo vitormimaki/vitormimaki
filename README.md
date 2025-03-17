@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Olá! 👋<br><br>Bem-vindo ao meu perfil do GitHub! 🚀<br><br>## 👨‍💻 Sobre Mim<br>Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando **React Native** e utilizando **VSCode** como meu editor principal.<br><br>## 🚀 Tecnologias & Ferramentas<br>- **Linguagens:** Java, Python, JavaScript, CSS, C/C++, VB.NET, COBOL<br>- **Frameworks:** React Native<br>- **Editor:** VSCode, Apache NetBeans<br><br>## 📌 Projetos Destacados<br>Aqui estão alguns projetos que venho desenvolvendo:<br>- [POO_N2](https://github.com/vitormimaki/POO_N2) - Projeto da disciplina de Programação Orientada a Objetos<br><br>
+# Olá! 👋<br><br>Bem-vindo ao meu perfil do GitHub! 🚀<br><br>## 👨‍💻 Sobre Mim<br>Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando **React Native** e utilizando **VSCode** como meu editor principal.<br><br>
 
 
 ## 🌐 Socials:
