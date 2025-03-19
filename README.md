@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Olá! 👋<br><br>Bem-vindo ao meu perfil do GitHub! 🚀<br><br>
-## 👨‍💻 Sobre Mim<br>Aluno de Análise e Desenvolvimento de Sistemas na FATEC.<br>Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou estudando **React Native** e utilizando **VSCode** como meu editor principal.<br><br>
+## 👨‍💻 Sobre Mim<br>Aluno de Análise e Desenvolvimento de Sistemas na FATEC.<br>Atualmente, estou estudando **React Native**.<br><br>
 
 
 ## 🌐 Socials:
